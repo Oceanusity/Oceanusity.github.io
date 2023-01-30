@@ -1,62 +1,61 @@
 papers:
-
-  - title: "Explainability in graph neural networks: A taxonomic survey"
-    authors: "Hao Yuan, <b>Haiyang Yu</b>, Shurui Gui, Shuiwang Ji"
-    venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence(<b> TPAMI </b>), 2022"
-    paper_pdf: "https://arxiv.org/abs/2012.15445"
-    img: "/assets/imgs/explanability_survey.png"
-    selected: y
-    year: "2022"
+- title: "Explainability in graph neural networks: A taxonomic survey"
+  authors: "Hao Yuan, <b>Haiyang Yu</b>, Shurui Gui, Shuiwang Ji"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence(<b> TPAMI </b>), 2022"
+  paper_pdf: "https://arxiv.org/abs/2012.15445"
+  img: "/assets/imgs/explanability_survey.png"
+  selected: y
+  year: "2022"
     
-   - title: "Frontiers of Graph Neural Networks with DIG"
-    authors: "Shuiwang Ji*, <b>Meng Liu*</b>, Yi Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Zhao Xu*, Haiyang Yu*"
-    venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2022"
-    paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3534678.3542624"
-    code: "https://github.com/divelab/DIG/tree/dig-stable/tutorials/KDD2022"
-    img: "/assets/imgs/DIG-overview-final.jpg"
-    selected: y
-    note: "<b style='color:red !important;'>Hands-on Tutorial</b>"
-    year: "2022"
+- title: "Frontiers of Graph Neural Networks with DIG"
+  authors: "Shuiwang Ji*, <b>Meng Liu*</b>, Yi Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Zhao Xu*, Haiyang Yu*"
+  venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2022"
+  paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3534678.3542624"
+  code: "https://github.com/divelab/DIG/tree/dig-stable/tutorials/KDD2022"
+  img: "/assets/imgs/DIG-overview-final.jpg"
+  selected: y
+  note: "<b style='color:red !important;'>Hands-on Tutorial</b>"
+  year: "2022"
     
-   - title: "GraphFM: Improving Large-Scale GNN Training via Feature Momentum"
-    venue: "International Conference on Machine Learning(<b> ICML </b>), 2022"    
-    authors: "<b>Haiyang Yu*</b>, Limei Wang*, Bokun Wang*, Meng Liu, Shuiwang Ji"
-    literature_collection: "https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs"
-    paper_pdf: "https://arxiv.org/abs/2012.15445"
-    img: "/assets/imgs/graphfm.png"
-    selected: y
-    year: "2022"
+- title: "GraphFM: Improving Large-Scale GNN Training via Feature Momentum"
+  venue: "International Conference on Machine Learning(<b> ICML </b>), 2022"    
+  authors: "<b>Haiyang Yu*</b>, Limei Wang*, Bokun Wang*, Meng Liu, Shuiwang Ji"
+  literature_collection: "https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs"
+  paper_pdf: "https://arxiv.org/abs/2012.15445"
+  img: "/assets/imgs/graphfm.png"
+  selected: y
+  year: "2022"
 
 
-  - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
-    authors: "<b>Meng Liu*</b>, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
-    venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
-    paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
-    code: "https://github.com/divelab/DIG"
-    code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
-    documentation: "https://diveintographs.readthedocs.io/en/latest/"
-    note: "<b style='color:red !important;'><a href='https://join.slack.com/t/dive-into-graphs/shared_invite/zt-1i9kn731c-RhLA1zcEGHXbIToxdVqo0g'>Join the DIG slack community!</a></b>"
-    img: "/assets/imgs/DIG-logo.jpg"
-    selected: y
-    year: "2021"
+- title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
+  authors: "<b>Meng Liu*</b>, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
+  venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
+  paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
+  code: "https://github.com/divelab/DIG"
+  code_star: "https://img.shields.io/github/stars/divelab/DIG?style=social"
+  documentation: "https://diveintographs.readthedocs.io/en/latest/"
+  note: "<b style='color:red !important;'><a href='https://join.slack.com/t/dive-into-graphs/shared_invite/zt-1i9kn731c-RhLA1zcEGHXbIToxdVqo0g'>Join the DIG slack community!</a></b>"
+  img: "/assets/imgs/DIG-logo.jpg"
+  selected: y
+  year: "2021"
 
 
-   - title: "On explainability of graph neural networks via subgraph explorations"
-    venue: "International Conference on Machine Learning(<b> ICML </b>), 2022" 
-    authors: "Hao Yuan, <b>Haiyang Yu</b>, Jie Wang, Kang Li, Shuiwang Ji"
-    paper_pdf: "https://arxiv.org/abs/2102.05152"
-    img: "/assets/imgs/subgraphx.png"
-    selected: y
-    year: "2022"
+- title: "On explainability of graph neural networks via subgraph explorations"
+  venue: "International Conference on Machine Learning(<b> ICML </b>), 2022" 
+  authors: "Hao Yuan, <b>Haiyang Yu</b>, Jie Wang, Kang Li, Shuiwang Ji"
+  paper_pdf: "https://arxiv.org/abs/2102.05152"
+  img: "/assets/imgs/subgraphx.png"
+  selected: y
+  year: "2022"
 
-  - title: "Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks"
-    authors: "<b>Meng Liu</b>, Haiyang Yu, and Shuiwang Ji"
-    paper_pdf: "https://arxiv.org/abs/2206.02059"
-    literature_collection: "https://github.com/mengliu1998/awesome-expressive-gnn"
-    literature_collection_star: "https://img.shields.io/github/stars/mengliu1998/awesome-expressive-gnn?style=social"
-    img: "/assets/imgs/NC-GNN.png"
-    selected: y
-    year: "preprint"
+- title: "Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks"
+  authors: "<b>Meng Liu</b>, Haiyang Yu, and Shuiwang Ji"
+  paper_pdf: "https://arxiv.org/abs/2206.02059"
+  literature_collection: "https://github.com/mengliu1998/awesome-expressive-gnn"
+  literature_collection_star: "https://img.shields.io/github/stars/mengliu1998/awesome-expressive-gnn?style=social"
+  img: "/assets/imgs/NC-GNN.png"
+  selected: y
+  year: "preprint"
 
 
 
