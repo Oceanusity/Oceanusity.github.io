@@ -42,7 +42,7 @@ papers:
 
 
 - title: "On explainability of graph neural networks via subgraph explorations"
-  venue: "International Conference on Machine Learning (<b>ICML</b>), 2022" 
+  venue: "International Conference on Machine Learning (<b>ICML</b>), 2021" 
   authors: "Hao Yuan, <b>Haiyang Yu</b>, Jie Wang, Kang Li, Shuiwang Ji"
   paper_pdf: "https://arxiv.org/abs/2102.05152"
   img: "/assets/imgs/subgraphx.png"
