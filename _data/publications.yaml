@@ -3,7 +3,7 @@ papers:
   authors: "Hao Yuan, <b>Haiyang Yu</b>, Shurui Gui, Shuiwang Ji"
   venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence(<b> TPAMI </b>), 2022"
   paper_pdf: "https://arxiv.org/abs/2012.15445"
-  img: "/assets/imgs/taxonomy.pdf"
+  img: "/assets/imgs/taxonomy.jpg"
   selected: y
   year: "2022"
     
@@ -44,7 +44,7 @@ papers:
   venue: "International Conference on Machine Learning(<b> ICML </b>), 2022" 
   authors: "Hao Yuan, <b>Haiyang Yu</b>, Jie Wang, Kang Li, Shuiwang Ji"
   paper_pdf: "https://arxiv.org/abs/2102.05152"
-  img: "/assets/imgs/subgraphx.pdf"
+  img: "/assets/imgs/subgraphx.png"
   selected: y
   year: "2022"
 
