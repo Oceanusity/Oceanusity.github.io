@@ -26,7 +26,6 @@ papers:
   selected: y
   year: "2022"
 
-
 - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
   authors: "<b>Meng Liu*</b>, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
   venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
@@ -46,7 +45,7 @@ papers:
   paper_pdf: "https://arxiv.org/abs/2102.05152"
   img: "/assets/imgs/subgraphx.png"
   selected: y
-  year: "2022"
+  year: "2021"
 
 - title: "Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks"
   authors: "<b>Meng Liu</b>, Haiyang Yu, and Shuiwang Ji"
