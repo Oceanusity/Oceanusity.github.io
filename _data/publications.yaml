@@ -4,7 +4,7 @@ papers:
   venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence(<b> TPAMI </b>), 2022"
   paper_pdf: "https://arxiv.org/abs/2012.15445"
   img: "/assets/imgs/taxonomy.jpg"
-  benchmark: "https://github.com/divelab/DIG/tree/dig-stable/benchmarks/xgraph"
+  code: "https://github.com/divelab/DIG/tree/dig-stable/benchmarks/xgraph"
   selected: y
   year: "2022"
     
