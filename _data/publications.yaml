@@ -9,7 +9,7 @@ papers:
   year: "2022"
     
 - title: "Frontiers of Graph Neural Networks with DIG"
-  authors: "Shuiwang Ji*, <b>Meng Liu*</b>, Yi Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Zhao Xu*, Haiyang Yu*"
+  authors: "Shuiwang Ji*, Meng Liu*, Yi Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Zhao Xu*, <b>Haiyang Yu*</b>"
   venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2022"
   paper_pdf: "https://dl.acm.org/doi/abs/10.1145/3534678.3542624"
   code: "https://github.com/divelab/DIG/tree/dig-stable/tutorials/KDD2022"
@@ -29,7 +29,7 @@ papers:
   year: "2022"
 
 - title: "DIG: A Turnkey Library for Diving into Graph Deep Learning Research"
-  authors: "<b>Meng Liu*</b>, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, Haiyang Yu*, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
+  authors: "Meng Liu*, Youzhi Luo*, Limei Wang*, Yaochen Xie*, Hao Yuan*, Shurui Gui*, <b>Haiyang Yu*</b>, Zhao Xu, Jingtun Zhang, Yi Liu, Keqiang Yan, Haoran Liu, Cong Fu, Bora Oztekin, Xuan Zhang, and Shuiwang Ji"
   venue: "Journal of Machine Learning Research (<b>JMLR</b>), 2021"
   paper_pdf: "https://jmlr.org/papers/v22/21-0343.html"
   code: "https://github.com/divelab/DIG"
