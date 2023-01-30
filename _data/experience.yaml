@@ -1,0 +1,15 @@
+experiences:
+
+- place: "Texas A&M University"
+  time: "Aug 2020 - now"
+  title: "Ph.D. Student"
+  subtitle: "Advisor: <a href='http://people.tamu.edu/~sji/'>Prof. Shuiwang Ji</a> <br/> Computer Science & Engineering"
+  category: "school"
+
+  
+- place: "University of Technology and Science of China"
+  time: "Aug 2016 - Jul 2020"
+  title: "B.E. Student"
+  subtitle: "Electronic Engineering and Information Science"
+  category: "school"
+  
