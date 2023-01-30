@@ -1,7 +1,7 @@
 papers:
 - title: "Explainability in graph neural networks: A taxonomic survey"
   authors: "Hao Yuan, <b>Haiyang Yu</b>, Shurui Gui, Shuiwang Ji"
-  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence(<b> TPAMI </b>), 2022"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b> TPAMI </b>), 2022"
   paper_pdf: "https://arxiv.org/abs/2012.15445"
   img: "/assets/imgs/taxonomy.jpg"
   code: "https://github.com/divelab/DIG/tree/dig-stable/benchmarks/xgraph"
@@ -19,7 +19,7 @@ papers:
   year: "2022"
     
 - title: "GraphFM: Improving Large-Scale GNN Training via Feature Momentum"
-  venue: "International Conference on Machine Learning(<b> ICML </b>), 2022"    
+  venue: "International Conference on Machine Learning (<b> ICML </b>), 2022"    
   authors: "<b>Haiyang Yu*</b>, Limei Wang*, Bokun Wang*, Meng Liu, Shuiwang Ji"
   literature_collection: "https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs"
   literature_collection_star: "https://img.shields.io/github/stars/oceanusity/awesome-gnns-on-large-scale-graphs?style=social"
@@ -42,7 +42,7 @@ papers:
 
 
 - title: "On explainability of graph neural networks via subgraph explorations"
-  venue: "International Conference on Machine Learning(<b> ICML </b>), 2022" 
+  venue: "International Conference on Machine Learning (<b> ICML </b>), 2022" 
   authors: "Hao Yuan, <b>Haiyang Yu</b>, Jie Wang, Kang Li, Shuiwang Ji"
   paper_pdf: "https://arxiv.org/abs/2102.05152"
   img: "/assets/imgs/subgraphx.png"
