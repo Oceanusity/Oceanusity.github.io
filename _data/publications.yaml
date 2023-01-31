@@ -51,7 +51,7 @@ papers:
   year: "2021"
 
 - title: "Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks"
-  authors: "<b>Meng Liu</b>, Haiyang Yu, and Shuiwang Ji"
+  authors: "Meng Liu, <b>Haiyang Yu</b>, and Shuiwang Ji"
   paper_pdf: "https://arxiv.org/abs/2206.02059"
   literature_collection: "https://github.com/mengliu1998/awesome-expressive-gnn"
   literature_collection_star: "https://img.shields.io/github/stars/mengliu1998/awesome-expressive-gnn?style=social"
