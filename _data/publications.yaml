@@ -23,7 +23,7 @@ papers:
   authors: "<b>Haiyang Yu*</b>, Limei Wang*, Bokun Wang*, Meng Liu, Shuiwang Ji"
   literature_collection: "https://github.com/Oceanusity/awesome-gnns-on-large-scale-graphs"
   literature_collection_star: "https://img.shields.io/github/stars/oceanusity/awesome-gnns-on-large-scale-graphs?style=social"
-  paper_pdf: "https://arxiv.org/abs/2012.15445"
+  paper_pdf: "https://arxiv.org/abs/2206.07161"
   img: "/assets/imgs/GraphFM-OB.png"
   selected: y
   year: "2022"
