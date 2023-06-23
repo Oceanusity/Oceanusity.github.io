@@ -1,4 +1,13 @@
 papers:
+- title: "Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian"
+  authors: "<b>Haiyang Yu</b>, Zhao Xu, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji"
+  venue: "International Conference on Machine Learning (<b>ICML</b>), 2023"
+  paper_pdf: "https://arxiv.org/abs/2306.04922"
+  img: "/assets/imgs/QHNet.png"
+  code: "https://github.com/divelab/AIRS/tree/main/OpenDFT/QHNet"
+  selected: y
+  year: "2023"
+
 - title: "Explainability in graph neural networks: A taxonomic survey"
   authors: "Hao Yuan, <b>Haiyang Yu</b>, Shurui Gui, Shuiwang Ji"
   venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2022"
@@ -50,6 +59,17 @@ papers:
   selected: y
   year: "2021"
 
+
+
+- title: "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules"
+  authors: "<b>Haiyang Yu*</b>, Meng Liu*, Youzhi Luo, Alex Strasser, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji"
+  paper_pdf: "https://arxiv.org/abs/2306.09549"
+  code: "https://github.com/divelab/AIRS/tree/main/OpenDFT/QHBench"
+  img: "/assets/imgs/QH9.png"
+  selected: y
+  year: "preprint"
+
+  
 - title: "Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks"
   authors: "Meng Liu, <b>Haiyang Yu</b>, and Shuiwang Ji"
   paper_pdf: "https://arxiv.org/abs/2206.02059"
