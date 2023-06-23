@@ -47,8 +47,6 @@ title: Home
 
   <h5><b>2023</b></h5>
     {% for paper in site.data.publications.papers %}
-    <h5><b>2023</b></h5>
-    {% for paper in site.data.publications.papers %}
     {% if paper.year == "2023" %}
         <div class="paper">
           <div class="row">
@@ -138,6 +136,8 @@ title: Home
     {% endif %}
     {% endfor %}
   
+  <h5><b>2022</b></h5>
+    {% for paper in site.data.publications.papers %}
     {% if paper.year == "2022" %}
         <div class="paper">
           <div class="row">
