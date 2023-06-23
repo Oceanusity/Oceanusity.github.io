@@ -1,4 +1,5 @@
 papers:
+
 - title: "Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian"
   authors: "<b>Haiyang Yu</b>, Zhao Xu, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji"
   venue: "International Conference on Machine Learning (<b>ICML</b>), 2023"
