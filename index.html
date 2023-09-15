@@ -168,7 +168,7 @@ title: Home
                   {% endif %}
 
                   {% if paper.website %}
-                    <img src='{{ site.baseurl }}{{ paper.website }}' height="20%" >
+                    <a class="button" href="{{ paper.website | prepend: site.baseurl }}" target="_blank">Website</a>
                   {% endif %}
                    
                   {% if paper.code_star %}
