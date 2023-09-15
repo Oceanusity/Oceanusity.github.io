@@ -166,6 +166,10 @@ title: Home
                   {% if paper.code %}
                     <a class="button" href="{{ paper.code | prepend: site.baseurl }}" target="_blank">Code</a>
                   {% endif %}
+
+                  {% if paper.website %}
+                    <img src='{{ site.baseurl }}{{ paper.website }}' height="20%" >
+                  {% endif %}
                    
                   {% if paper.code_star %}
                     <img src='{{ site.baseurl }}{{ paper.code_star }}' height="20%" >
