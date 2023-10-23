@@ -1,8 +1,13 @@
 experiences:
-
+- place: "Amazon Web Service"
+  time: "June 2023 - Aug 2023"
+  title: "Applied Scientist Intern"
+  subtitle: "Mentor: <a href='https://scholar.google.com/citations?user=LyPpCKwAAAAJ&hl=en'>Dr. Xiang Song </a> <br/> Graph Machine Learning Team"
+  category: "work"
+  
 - place: "Texas A&M University"
   time: "Aug 2020 - now"
-  title: "Ph.D. Student"
+  title: "Ph.D. in Computer Engineering"
   subtitle: "Advisor: <a href='http://people.tamu.edu/~sji/'>Prof. Shuiwang Ji</a> <br/> Computer Science & Engineering"
   category: "school"
 
