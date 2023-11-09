@@ -35,6 +35,8 @@ papers:
   code: "https://github.com/divelab/DIG/tree/dig-stable/tutorials/KDD2022"
   img: "/assets/imgs/DIG-overview-final.jpg"
   selected: y
+  slides: "https://drive.google.com/file/d/1yk8Y1SkwpuxGbBVx5cKgI2J7KJ0ZMqAd/view"
+  video: "https://www.youtube.com/watch?app=desktop&v=iJhE4TbtQD0"
   note: "<b style='color:red !important;'>Hands-on Tutorial</b>"
   year: "2022"
     
