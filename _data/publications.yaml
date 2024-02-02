@@ -91,13 +91,14 @@ papers:
   
 
 - title: "Your Neighbors Are Communicating: Towards Powerful and Scalable Graph Neural Networks"
+  venue: "Transactions on Machine Learning Research (TMLR), 2024"
   authors: "Meng Liu, <b>Haiyang Yu</b>, and Shuiwang Ji"
   paper_pdf: "https://arxiv.org/abs/2206.02059"
   literature_collection: "https://github.com/mengliu1998/awesome-expressive-gnn"
   literature_collection_star: "https://img.shields.io/github/stars/mengliu1998/awesome-expressive-gnn?style=social"
   img: "/assets/imgs/NC-GNN.png"
   selected: y
-  year: "preprint"
+  year: "2024"
 
 
 
