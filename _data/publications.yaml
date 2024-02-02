@@ -1,5 +1,12 @@
 papers:
-
+- title: "NetInfoF Framework: Measuring and Exploiting Network Usable Information"
+  authors: "Meng-Chieh Lee, *Haiyang Yu*, Jian Zhang, Vassilis N. Ioannidis, Xiang song, Soji Adeshina, Da Zheng, Christos Faloutsos"
+  venue: "International Conference on Learning Representations (<b>ICLR</b>), 2024"
+  paper_pdf: "https://openreview.net/forum?id=KY8ZNcljVU"
+  img: "/assets/imgs/NetInfoF.png"
+  selected: y
+  year: "2024"
+  
 - title: "QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules"
   authors: "<b>Haiyang Yu*</b>, Meng Liu*, Youzhi Luo, Alex Strasser, Xiaofeng Qian, Xiaoning Qian, Shuiwang Ji"
   venue: "Neural Information Processing Systems (<b>NeurIPS</b>), Track on Datasets and Benchmarks, 2023"
