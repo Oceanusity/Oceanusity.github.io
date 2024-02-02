@@ -1,5 +1,7 @@
 news:
-- "Our paper <a href='https://openreview.net/forum?id=KY8ZNcljVU'> NetInfoF Framework: Measuring and Exploiting Network Usable Information</a> has been accpeted to <b>ICLR 2024</b> as a spotlight paper! Congrats to Jeremy! "
+- title: "Our paper <a href='https://openreview.net/forum?id=KY8ZNcljVU'> NetInfoF Framework: Measuring and Exploiting Network Usable Information</a> has been accpeted to <b>ICLR 2024</b> as a spotlight paper! Congrats to Jeremy! "
+  date: "01/2024"
+  
 - title: "Welcome to check our new datasets for the Quantum Hamiltonian prediction QH9 <a href='https://arxiv.org/abs/2306.09549'>paper</a> and <a href='https://github.com/divelab/AIRS/tree/main/OpenDFT/QHBench'>code</a>."
   date: "06/2023"
   
