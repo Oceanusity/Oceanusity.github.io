@@ -1,4 +1,20 @@
 papers:
+- title: "Learning to Discover Regulatory Elements for Gene Expression Prediction"
+  authors: "Xingyu Su*, <b>Haiyang Yu*</b>, Degui Zhi, Shuiwang Ji"
+  venue: "International Conference on Learning Representations, 2025"
+  paper_pdf: "https://openreview.net/pdf?id=Mfnh1Sqdwf"
+  img: "/assets/imgs/Seq2Exp.png"
+  selected: y
+  year: "2024"
+
+- title: "Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction"
+  authors: "Zhao Xu*, <b>Haiyang Yu*</b>, Montgomery Bohde, Shuiwang Ji"
+  venue: "Transactions on Machine Learning Research ((<b>TMLR Featured</b>), 2024"
+  paper_pdf: "https://arxiv.org/abs/2411.04219"
+  img: "/assets/imgs/PACE.png"
+  selected: y
+  year: "2024"
+
 - title: "NetInfoF Framework: Measuring and Exploiting Network Usable Information"
   authors: "Meng-Chieh Lee, <b>Haiyang Yu</b>, Jian Zhang, Vassilis N. Ioannidis, Xiang song, Soji Adeshina, Da Zheng, Christos Faloutsos"
   venue: "International Conference on Learning Representations (<b>ICLR Spotlight</b>), 2024"
