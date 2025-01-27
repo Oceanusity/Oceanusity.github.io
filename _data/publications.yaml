@@ -9,7 +9,7 @@ papers:
 
 - title: "Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction"
   authors: "Zhao Xu*, <b>Haiyang Yu*</b>, Montgomery Bohde, Shuiwang Ji"
-  venue: "Transactions on Machine Learning Research ((<b>TMLR Featured</b>), 2024"
+  venue: "Transactions on Machine Learning Research (<b>TMLR Featured</b>), 2024"
   paper_pdf: "https://arxiv.org/abs/2411.04219"
   img: "/assets/imgs/PACE.png"
   selected: y
