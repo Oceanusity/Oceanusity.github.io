@@ -5,7 +5,7 @@ papers:
   paper_pdf: "https://openreview.net/pdf?id=Mfnh1Sqdwf"
   img: "/assets/imgs/Seq2Exp.png"
   selected: y
-  year: "2024"
+  year: "2025"
 
 - title: "Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction"
   authors: "Zhao Xu*, <b>Haiyang Yu*</b>, Montgomery Bohde, Shuiwang Ji"
