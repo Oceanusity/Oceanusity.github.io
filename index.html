@@ -43,11 +43,9 @@ title: Home
 <div class="docs-section" id="publications">
   <h4><b>Publications</b> [<a href="{{ site.data.main_info.googlescholar }}" target="_blank">Google Scholar</a>]</h4>
   * indicates equal contribution, and ** denotes equal senior contribution. </p>
-  
-  <h5><b>2024</b></h5>
-    {% for paper in site.data.publications.papers %}
 
-    <h5><b>2025</b></h5>
+
+      <h5><b>2025</b></h5>
     {% for paper in site.data.publications.papers %}
     {% if paper.year == "2025" %}
         <div class="paper">
@@ -137,6 +135,9 @@ title: Home
         </div>
     {% endif %}
     {% endfor %}
+  
+  <h5><b>2024</b></h5>
+    {% for paper in site.data.publications.papers %}
   
     {% if paper.year == "2024" %}
         <div class="paper">
