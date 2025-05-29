@@ -1,7 +1,7 @@
 papers:
 - title: "Learning to Discover Regulatory Elements for Gene Expression Prediction"
   authors: "Xingyu Su*, <b>Haiyang Yu*</b>, Degui Zhi, Shuiwang Ji"
-  venue: "International Conference on Learning Representations (<b> ICLR Oral <\/b>), 2025"
+  venue: "International Conference on Learning Representations (<b>ICLR Oral<\/b>), 2025"
   paper_pdf: "https://openreview.net/pdf?id=Mfnh1Sqdwf"
   img: "/assets/imgs/Seq2Exp.png"
   selected: y
