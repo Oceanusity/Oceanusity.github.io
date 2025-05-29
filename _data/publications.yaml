@@ -1,12 +1,12 @@
 papers:
 - title: "Learning to Discover Regulatory Elements for Gene Expression Prediction"
   authors: "Xingyu Su*, <b>Haiyang Yu*</b>, Degui Zhi, Shuiwang Ji"
-  venue: "International Conference on Learning Representations, 2025"
+  venue: "International Conference on Learning Representations (<b> ICLR Oral <\/b>), 2025"
   paper_pdf: "https://openreview.net/pdf?id=Mfnh1Sqdwf"
   img: "/assets/imgs/Seq2Exp.png"
   selected: y
   year: "2025"
-
+  
 - title: "Equivariant Graph Network Approximations of High-Degree Polynomials for Force Field Prediction"
   authors: "Zhao Xu*, <b>Haiyang Yu*</b>, Montgomery Bohde, Shuiwang Ji"
   venue: "Transactions on Machine Learning Research (<b>TMLR Featured</b>), 2024"
